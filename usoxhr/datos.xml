@@ -1,21 +1,21 @@
 <clientes>
 <!-- El primer cliente -->
   <cliente>
-    <nombre>Empresa SA</nombre>
+    <nombre>ACNE</nombre>
     <sector>Tecnologia</sector>
     <notas><![CDATA[
     Llamar la proxima semana
     ]]></notas>
   </cliente>
   <cliente>
-    <nombre>Mi casita</nombre>
-    <sector>Constructora</sector>
+    <nombre>Localidad</nombre>
+    <sector>Ambiente</sector>
     <notas><![CDATA[
     Enviar facturas la proxima semana
     ]]></notas>
   </cliente>
   <cliente>
-    <nombre>Restaurant Mi Lonche</nombre>
+    <nombre>Restaurante KGRB</nombre>
     <sector>Alimentos y bebidas</sector>
     <notas><![CDATA[
      facturas pagadas
